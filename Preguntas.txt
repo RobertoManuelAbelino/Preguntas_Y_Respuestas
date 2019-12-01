@@ -1,0 +1,15 @@
+1. ¿Qué es un sistema computacional?
+   Es la interaccción entre los componentes físicos y lógicos de la computadora con las personas, con el fin de lograr un objetivo.
+2. ¿Quién creó google?
+   Larry Page y Sergey Brin. El nombre Google deriva del término gugol que es el número 10 elevado a la potencia 100.
+3. ¿Quien creó Whatsapp?
+   Jan Koum.
+4. ¿Quién es la mascota oficial de Java?
+   En 1992 se creó Duke como un asistente en forma de muñeco en una interfaz gráfica.
+5. ¿Qué es el internet de las cosas?
+   Es la interacción de los objetos comúnes con el internet.
+6. ¿De dónde adquirió su nombre Java?
+   Existen tres teorias
+    1. El lugar donde los desarrolladores tomaban café se llamaba asi.
+    2. Es un acrónimo que significa Just Another Vague Acronym ("Solo otro acrónimo ambiguo mas").
+    3. O la ultima que solamente se elijió asi de una lista de nombres al azar.
